@@ -22,3 +22,6 @@ li.playing{
     background-color: #0b5eb7;
     color:#fff;
 }
+.list-group-item{
+    cursor: pointer;
+}
